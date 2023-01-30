@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5aac37c5.css",
+    "main.js": "/static/js/main.507c8381.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/flyer2.png": "/static/media/flyer2.1219a3d67dc0e0410249.png",
+    "static/media/flyer1.png": "/static/media/flyer1.edb91563fb86313f1aed.png",
+    "static/media/flyer3.png": "/static/media/flyer3.350e80b502ae4925fe8e.png",
+    "static/media/lines.svg": "/static/media/lines.357b73142e0026a60924ba6ef534d186.svg",
+    "static/media/logo.svg": "/static/media/logo.79983080f28b23ecb7b84fa8b81c4160.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.4a9181e665ed8b20f12a929f2df5936d.svg",
+    "main.5aac37c5.css.map": "/static/css/main.5aac37c5.css.map",
+    "main.507c8381.js.map": "/static/js/main.507c8381.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aac37c5.css",
+    "static/js/main.507c8381.js"
+  ]
+}
